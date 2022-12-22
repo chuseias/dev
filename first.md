@@ -6,3 +6,7 @@
 | be         | be          | be           |
 | left       | right       | center       |
 | aligned    | aligned     | aligned      |
+
+```plantuml
+Bob->Alice : Hello!
+```
